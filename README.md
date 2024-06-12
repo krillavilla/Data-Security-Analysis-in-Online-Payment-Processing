@@ -3,6 +3,7 @@
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Project Rubric](#project-rubric)
+- [Project Submission](#project-submission)
 
 ## Project Overview
 You have recently joined JFin Payments, a rapidly growing online payment processing firm based in Los Angeles, California, as a Data Security Analyst. With over 100,000 customers across the United States and Europe, JFin Payments handles a diverse range of sensitive data, including employee and customer profiles, financial information, company communications, and intellectual property.
@@ -31,3 +32,6 @@ The project rubric consists of several sections, each focusing on different aspe
 ### Section Four: Data Availability
 - Recommend a backup frequency and retention period for each data type, with justification.
 - Initiate a backup of the LabVM and provide a screenshot of the LabVM Backup screen as proof.
+
+## Project Submission
+For detailed project submission, please refer to [project_submission.md](https://github.com/krillavilla/Data-Security-Analysis-in-Online-Payment-Processing/blob/main/project_submission.md).
